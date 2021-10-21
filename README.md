@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kim Underhill's Resume and Portfolio
 
 You can use the [editor on GitHub](https://github.com/captainarcher/captainarcher.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
